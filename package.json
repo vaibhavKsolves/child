@@ -43,6 +43,11 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.6.1",
+    "antd": "^5.24.2",
+    "mobx": "^6.13.6",
+    "mobx-keystone": "^1.11.2",
+    "mobx-react-lite": "^4.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "single-spa-react": "^6.0.2"
